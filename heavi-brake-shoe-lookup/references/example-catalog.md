@@ -1,7 +1,7 @@
-# Fictional brake-shoe catalog
+# Example brake-shoe catalog
 
-These records exist only to demonstrate the skill. Every identifier and part number below is
-fictional and must never be used for a real vehicle, quote, order, or repair.
+These illustrative records show how the lookup works. They are not production fitment data and
+must not be used for a real vehicle, quote, order, or repair.
 
 ## OE build records
 

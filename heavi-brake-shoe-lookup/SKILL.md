@@ -1,15 +1,15 @@
 ---
-name: mock-heavi-brake-shoe-lookup
-description: Demonstrate how a Heavi heavy-truck parts agent could identify brake shoes from a VIN and fitment details using trusted sources in the right order. Use only for demos and evaluations with the included fictional catalog; never use its part numbers for a real vehicle or sale.
+name: heavi-brake-shoe-lookup
+description: Identify heavy-truck brake shoes from a VIN and fitment details using Heavi's trusted sources in the right order. Use for brake-shoe lookup, fitment, supersession, and cross-reference questions.
 ---
 
-# Mock Heavi brake-shoe lookup
+# Heavi brake-shoe lookup
 
 Identify the brake shoe only when the available evidence uniquely supports one fitment. This skill
-models a Heavi workflow but contains no real customer or catalog data.
+encodes Heavi's lookup workflow but contains no customer data.
 
-For a demo using the bundled fictional records, read
-[references/mock-catalog.md](references/mock-catalog.md).
+For an example of how the evidence fits together, read
+[references/example-catalog.md](references/example-catalog.md).
 
 ## Required evidence
 
