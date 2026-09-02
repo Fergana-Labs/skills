@@ -3,7 +3,7 @@ name: heavi-brake-shoe-lookup
 description: Identify heavy-truck brake shoes from a VIN and fitment details using Heavi's trusted sources in the right order. Use for brake-shoe lookup, fitment, supersession, and cross-reference questions.
 ---
 
-# Heavi brake-shoe lookup
+# brake-shoe lookup
 
 Identify the brake shoe only when the available evidence uniquely supports one fitment. This skill
 encodes Heavi's lookup workflow but contains no customer data.
