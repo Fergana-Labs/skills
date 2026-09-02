@@ -1,5 +1,5 @@
 ---
-name: heavi-brake-shoe-lookup
+name: brake-shoe-lookup
 description: Identify heavy-truck brake shoes from a VIN and fitment details using Heavi's trusted sources in the right order. Use for brake-shoe lookup, fitment, supersession, and cross-reference questions.
 ---
 
